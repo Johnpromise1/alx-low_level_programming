@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * This is main Entry .
- * Return must always be 0
+ * main - printing 
+ * Return : Always 0 (Successful)
  */
 int main (void)
 {
-	puts("\"Programming is such an incredible language ");
-
+	puts("\"Prgramming is like building a multilingual puzzle"); 
 	return (0);
+
