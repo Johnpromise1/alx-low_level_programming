@@ -14,9 +14,11 @@ void print_number(int n)
 		_putchar('_');
 		d = -d;
 	}
+
 	if ((d / 10) > 0)
 	{
 		print_number(d / 10);
+
 	}
 	_putchar((d % 10) + '0');
 }
