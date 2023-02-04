@@ -1,6 +1,6 @@
 /*
  * File: 4-hash_table_get.c
- * Auth: Johnpromise Ononuju 
+ * Auth: Johnpromise Ononuju
 */
 
 #include "hash_tables.h"
